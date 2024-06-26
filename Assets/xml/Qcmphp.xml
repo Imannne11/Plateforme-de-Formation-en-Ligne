@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+    <text>Qu'est-ce que PHP ?</text>
+    <option id="A">A. Un acronyme pour Personal Home Page</option>
+    <option id="B">B. Un langage de programmation pour le développement web</option>
+    <option id="C">C. Un système de gestion de base de données</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q2">
+    <text>Quelle est la balise utilisée pour démarrer un bloc de code PHP ?</text>
+    <option id="A">A. &lt;?php</option>
+    <option id="B">B. &lt;script></option>
+    <option id="C">C. &lt;?></option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q3">
+    <text>Quel est le séparateur de déclaration de fin de ligne en PHP ?</text>
+    <option id="A">A. ;</option>
+    <option id="B">B. :</option>
+    <option id="C">C. ,</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q4">
+    <text>Quelle fonction est utilisée pour afficher du texte en PHP ?</text>
+    <option id="A">A. echo()</option>
+    <option id="B">B. print()</option>
+    <option id="C">C. display()</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q5">
+    <text>Quel opérateur est utilisé pour la concaténation de chaînes en PHP ?</text>
+    <option id="A">A. +</option>
+    <option id="B">B. .</option>
+    <option id="C">C. :</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q6">
+    <text>Quelle est la fonction pour obtenir la longueur d'une chaîne en PHP ?</text>
+    <option id="A">A. length()</option>
+    <option id="B">B. strlen()</option>
+    <option id="C">C. count()</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q7">
+    <text>Quelle méthode est utilisée pour récupérer des données envoyées par un formulaire en PHP ?</text>
+    <option id="A">A. $_GET</option>
+    <option id="B">B. $_POST</option>
+    <option id="C">C. $_REQUEST</option>
+    <correct_answer>C</correct_answer>
+  </question>
+</quiz>

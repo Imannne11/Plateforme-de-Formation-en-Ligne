@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+    <text>Qu'est-ce que SQL ?</text>
+    <option id="A">A. Un langage de programmation pour le développement web</option>
+    <option id="B">B. Un langage de requête structuré pour la manipulation de bases de données</option>
+    <option id="C">C. Un logiciel de gestion de projet</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q2">
+    <text>Quelle instruction SQL est utilisée pour sélectionner des données d'une table ?</text>
+    <option id="A">A. SELECT</option>
+    <option id="B">B. FETCH</option>
+    <option id="C">C. SEARCH</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q3">
+    <text>Quelle instruction SQL est utilisée pour insérer de nouvelles données dans une table ?</text>
+    <option id="A">A. INSERT INTO</option>
+    <option id="B">B. UPDATE</option>
+    <option id="C">C. ADD</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q4">
+    <text>Quelle instruction SQL est utilisée pour mettre à jour des données dans une table ?</text>
+    <option id="A">A. MODIFY</option>
+    <option id="B">B. CHANGE</option>
+    <option id="C">C. UPDATE</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q5">
+    <text>Quelle instruction SQL est utilisée pour supprimer des données d'une table ?</text>
+    <option id="A">A. DELETE</option>
+    <option id="B">B. REMOVE</option>
+    <option id="C">C. DROP</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q6">
+    <text>Quelle instruction SQL est utilisée pour filtrer les résultats basés sur une condition ?</text>
+    <option id="A">A. WHERE</option>
+    <option id="B">B. FILTER</option>
+    <option id="C">C. SELECT</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q7">
+    <text>Quelle instruction SQL est utilisée pour regrouper les résultats basés sur une colonne ?</text>
+    <option id="A">A. GROUP BY</option>
+    <option id="B">B. SORT BY</option>
+    <option id="C">C. ARRANGE BY</option>
+    <correct_answer>A</correct_answer>
+  </question>
+</quiz>

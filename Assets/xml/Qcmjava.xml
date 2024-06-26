@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+    <text>Qu'est-ce que Java ?</text>
+    <option id="A">A. Un type de café</option>
+    <option id="B">B. Un langage de programmation</option>
+    <option id="C">C. Un animal sauvage</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q2">
+    <text>Quelle est la méthode principale dans une classe Java ?</text>
+    <option id="A">A. start()</option>
+    <option id="B">B. main()</option>
+    <option id="C">C. execute()</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q3">
+    <text>Quel mot-clé est utilisé pour définir une classe en Java ?</text>
+    <option id="A">A. class</option>
+    <option id="B">B. define</option>
+    <option id="C">C. struct</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q4">
+    <text>Quelle est la sortie de ce code Java : System.out.println(5 + "2") ?</text>
+    <option id="A">A. 7</option>
+    <option id="B">B. 52</option>
+    <option id="C">C. 5 + 2</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q5">
+    <text>Quel est le symbole utilisé pour les commentaires sur une seule ligne en Java ?</text>
+    <option id="A">A. //</option>
+    <option id="B">B. /* */</option>
+    <option id="C">C. #</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q6">
+    <text>Quel type de données est utilisé pour stocker du texte en Java ?</text>
+    <option id="A">A. int</option>
+    <option id="B">B. char</option>
+    <option id="C">C. String</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q7">
+    <text>Quelle méthode est utilisée pour obtenir la longueur d'une chaîne en Java ?</text>
+    <option id="A">A. length()</option>
+    <option id="B">B. size()</option>
+    <option id="C">C. count()</option>
+    <correct_answer>A</correct_answer>
+  </question>
+</quiz>

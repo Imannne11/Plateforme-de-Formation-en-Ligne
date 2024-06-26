@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+    <text>Qu'est-ce que CSS ?</text>
+    <option id="A">A. Un langage de programmation pour le côté serveur</option>
+    <option id="B">B. Un langage de balisage pour la création de contenu web</option>
+    <option id="C">C. Un langage de style pour la présentation des pages web</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q2">
+    <text>Quelle balise est utilisée pour inclure une feuille de style CSS dans une page HTML ?</text>
+    <option id="A">A. style</option>
+    <option id="B">B. link</option>
+    <option id="C">C. css</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q3">
+    <text>Quel sélecteur CSS est utilisé pour cibler un élément avec une classe spécifique ?</text>
+    <option id="A">A. #</option>
+    <option id="B">B. .</option>
+    <option id="C">C. :</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q4">
+    <text>Quelle propriété CSS est utilisée pour définir la couleur du texte ?</text>
+    <option id="A">A. background-color</option>
+    <option id="B">B. text-color</option>
+    <option id="C">C. color</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q5">
+    <text>Quel sélecteur CSS est utilisé pour cibler tous les éléments d'une page ?</text>
+    <option id="A">A. * </option>
+    <option id="B">B. body</option>
+    <option id="C">C. all</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q6">
+    <text>Quelle propriété CSS est utilisée pour définir la taille de la police de caractères ?</text>
+    <option id="A">A. font-size</option>
+    <option id="B">B. text-size</option>
+    <option id="C">C. size</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q7">
+    <text>Quelle unité de mesure est utilisée dans CSS pour spécifier une taille relative à la taille de la police du texte de base ?</text>
+    <option id="A">A. px</option>
+    <option id="B">B. em</option>
+    <option id="C">C. %</option>
+    <correct_answer>B</correct_answer>
+  </question>
+</quiz>

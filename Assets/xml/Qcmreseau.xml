@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+    <text>Qu'est-ce qu'une adresse IP ?</text>
+    <option id="A">A. Une adresse postale utilisée pour envoyer du courrier électronique</option>
+    <option id="B">B. Un identifiant unique attribué à chaque appareil connecté à un réseau informatique</option>
+    <option id="C">C. Un numéro de téléphone utilisé pour établir des appels vidéo</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q2">
+    <text>Quel protocole est utilisé pour transférer des fichiers sur un réseau ?</text>
+    <option id="A">A. FTP (File Transfer Protocol)</option>
+    <option id="B">B. HTTP (Hypertext Transfer Protocol)</option>
+    <option id="C">C. SMTP (Simple Mail Transfer Protocol)</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q3">
+    <text>Quel périphérique est utilisé pour connecter différents réseaux entre eux ?</text>
+    <option id="A">A. Routeur</option>
+    <option id="B">B. Commutateur (Switch)</option>
+    <option id="C">C. Modem</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q4">
+    <text>Quel protocole est utilisé pour envoyer des e-mails ?</text>
+    <option id="A">A. FTP</option>
+    <option id="B">B. SMTP</option>
+    <option id="C">C. HTTP</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q5">
+    <text>Qu'est-ce que le DNS ?</text>
+    <option id="A">A. Un protocole pour sécuriser les connexions réseau</option>
+    <option id="B">B. Un système de noms de domaine qui traduit les noms de domaine en adresses IP</option>
+    <option id="C">C. Un protocole pour la navigation web sécurisée</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q6">
+    <text>Quelle est la fonction principale d'un pare-feu (firewall) ?</text>
+    <option id="A">A. Bloquer les virus et les logiciels malveillants</option>
+    <option id="B">B. Contrôler le trafic réseau entrant et sortant pour sécuriser le réseau</option>
+    <option id="C">C. Gérer les noms de domaine et les adresses IP</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q7">
+    <text>Quelle est la différence entre un réseau local (LAN) et un réseau étendu (WAN) ?</text>
+    <option id="A">A. La taille et la portée du réseau</option>
+    <option id="B">B. Le type de périphériques utilisés</option>
+    <option id="C">C. Le protocole de communication utilisé</option>
+    <correct_answer>A</correct_answer>
+  </question>
+</quiz>

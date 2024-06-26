@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+  <text>Combien de joueurs composent une équipe de foot-ball sur le terrain ?</text>
+  <option id="A">A. 11</option>
+  <option id="B">B. 6</option>
+  <option id="C">C. 7</option>
+  <correct_answer>A</correct_answer>
+</question>
+
+<question id="q2">
+  <text>Quelle langue utilise le plus grand nombre de lettres dans son alphabet ?</text>
+  <option id="A">A. Arabe</option>
+  <option id="B">B. Russe</option>
+  <option id="C">C. Grec</option>
+  <correct_answer>B</correct_answer>
+</question>
+
+
+  <question id="q3">
+    <text>Qu'est-ce que HTML signifie ?</text>
+    <option id="A">A. Hyper Text Markup Language</option>
+    <option id="B">B. High Tech Machine Learning</option>
+    <option id="C">C. Hot Tub Maintenance Log</option>
+    <correct_answer>A</correct_answer>
+  </question>
+  <question id="q4">
+    <text>Qu'est-ce que Git ?</text>
+    <option id="A">A. Un éditeur de texte</option>
+    <option id="B">B. Un langage de programmation</option>
+    <option id="C">C.  Un système de gestion de versions</option>
+    <correct_answer>C</correct_answer>
+  </question>
+  <question id="q5">
+    <text>Qu'est-ce que le "responsive design" ?</text>
+    <option id="A">A. Une technique de design permettant aux sites web de s'adapter à différentes tailles d'écran et dispositifs.</option>
+    <option id="B">B. Une technique de design permettant de créer des interfaces utilisateur interactives et immersives.</option>
+    <option id="C">C. Une technique de design permettant de créer des visuels en 3D.</option>
+    <correct_answer>A</correct_answer>
+  </question>
+  <question id="q6">
+    <text>Quelle est la langue officielle des États-Unis ?</text>
+    <option id="A">A. Anglais</option>
+    <option id="B">B. Espagnol</option>
+    <option id="C">C.  Français</option>
+    <correct_answer>A</correct_answer>
+  </question>
+  <question id="q7">
+    <text>Qu'est-ce que la typographie en design ?</text>
+    <option id="A">A. La conception et l'utilisation de différents types de polices de caractères pour améliorer la lisibilité et l'esthétique.</option>
+    <option id="B">B. La conception et l'utilisation de couleurs vives et de motifs complexes pour créer des visuels dynamiques.</option>
+    <option id="C">C. La conception et la création de visuels en trois dimensions pour des applications de réalité virtuelle et augmentée.</option>
+    <correct_answer>A</correct_answer>
+  </question>
+</quiz>

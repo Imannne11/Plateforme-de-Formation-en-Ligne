@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+    <text>Qu'est-ce que Python ?</text>
+    <option id="A">A. Un serpent venimeux</option>
+    <option id="B">B. Un langage de programmation</option>
+    <option id="C">C. Un logiciel de traitement de texte</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q2">
+    <text>Quelle est la syntaxe pour imprimer "Hello World" en Python ?</text>
+    <option id="A">A. echo("Hello World")</option>
+    <option id="B">B. print("Hello World")</option>
+    <option id="C">C. console.log("Hello World")</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q3">
+    <text>Quel opérateur est utilisé pour la division en Python ?</text>
+    <option id="A">A. /</option>
+    <option id="B">B. %</option>
+    <option id="C">C. //</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q4">
+    <text>Quelle est la fonction pour obtenir la longueur d'une liste en Python ?</text>
+    <option id="A">A. len()</option>
+    <option id="B">B. length()</option>
+    <option id="C">C. count()</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q5">
+    <text>Quel mot-clé est utilisé pour définir une fonction en Python ?</text>
+    <option id="A">A. function</option>
+    <option id="B">B. define</option>
+    <option id="C">C. def</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q6">
+    <text>Quelle est la sortie de ce code Python : print(3 == 3) ?</text>
+    <option id="A">A. 3</option>
+    <option id="B">B. True</option>
+    <option id="C">C. False</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q7">
+    <text>Quelle méthode est utilisée pour ouvrir un fichier en Python ?</text>
+    <option id="A">A. open()</option>
+    <option id="B">B. read()</option>
+    <option id="C">C. start()</option>
+    <correct_answer>A</correct_answer>
+  </question>
+</quiz>

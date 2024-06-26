@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+    <text>Qu'est-ce que JavaScript ?</text>
+    <option id="A">A. Un langage de programmation pour le développement web</option>
+    <option id="B">B. Un langage de balisage pour la création de contenu web</option>
+    <option id="C">C. Un langage de style pour la présentation des pages web</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q2">
+    <text>Quelle balise est utilisée pour inclure du code JavaScript dans une page HTML ?</text>
+    <option id="A">A. script</option>
+    <option id="B">B. javascript</option>
+    <option id="C">C. js</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q3">
+    <text>Quel mot-clé est utilisé pour déclarer une variable en JavaScript ?</text>
+    <option id="A">A. var</option>
+    <option id="B">B. variable</option>
+    <option id="C">C. int</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q4">
+    <text>Quelle fonction est utilisée pour afficher une boîte de dialogue avec un message en JavaScript ?</text>
+    <option id="A">A. alert()</option>
+    <option id="B">B. prompt()</option>
+    <option id="C">C. confirm()</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q5">
+    <text>Quel opérateur est utilisé pour la concaténation de chaînes en JavaScript ?</text>
+    <option id="A">A. +</option>
+    <option id="B">B. .</option>
+    <option id="C">C. :</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q6">
+    <text>Quelle méthode est utilisée pour ajouter un élément à la fin d'un tableau en JavaScript ?</text>
+    <option id="A">A. push()</option>
+    <option id="B">B. add()</option>
+    <option id="C">C. append()</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q7">
+    <text>Quelle est la différence entre '==' et '===' en JavaScript ?</text>
+    <option id="A">A. '==' compare les valeurs sans vérifier le type, '===' compare les valeurs et les types</option>
+    <option id="B">B. '==' compare les valeurs et les types, '===' compare uniquement les valeurs</option>
+    <option id="C">C. '==' est utilisé pour l'assignation, '===' est utilisé pour la comparaison</option>
+    <correct_answer>A</correct_answer>
+  </question>
+</quiz>
